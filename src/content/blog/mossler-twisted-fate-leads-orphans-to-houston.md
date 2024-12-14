@@ -1,21 +1,14 @@
 ---
 author: shannon
-pubDatetime: 2024-12-14T12:00:00
-title: Shannonclements Twisted Fate Leads Orphans To Houston
-ogImage: ../../assets/images/shannonclements-twisted-fate-leads-orphans-to-houston.jpg
+pubDatetime: 2024-02-26T12:00:00
+title: Twisted Fate Leads Orphans To Houston
+ogImage: ../../assets/images/jacques-candace-kids.jpg
 featured: true
 draft: false
-tags: []
-description: Shannonclements Twisted Fate Leads Orphans To Houston
----
-
----
-title: Twisted fate leads orphans to Houston
-subtitle: Candace’s children, Norman and Rita, were teenagers regularly involved in
+tags:
+  - Candace Mossler
+description: Chapter 7 - Candace’s children, Norman and Rita, were teenagers regularly involved in
   their busy teenage worlds.
-author: ShannonClements
-publication: On The Offbeat
-date: February 26, 2024
 ---
 
 # Twisted fate leads orphans to Houston
@@ -29,7 +22,7 @@ On the cold and snowy evening of Jan. 11, 1957, just before midnight, Chicago po
 
 “Mommy is dead at home. Daddy shot her,” six-year-old Martha matter-of-factly told the police. 
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9a54145-7fb9-4959-b652-109578bed5b4_1583x886.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9a54145-7fb9-4959-b652-109578bed5b4_1583x886.jpeg)Shown at left, Leonard Glenn. At right, the four surviving children of Glenn, along with the Chicago Coroner and a city patrolman, before the children were placed in temporary care with a maternal relative.. From The New York Daily News.
+![Shown at left, Leonard Glenn. At right, the four surviving children of Glenn, along with the Chicago Coroner and a city patrolman, before the children were placed in temporary care with a maternal relative.. From The New York Daily News.](@assets/images/leanard-glenn-kids.jpg)<figcaption>Shown at left, Leonard Glenn. At right, the four surviving children of Glenn, along with the Chicago Coroner and a city patrolman, before the children were placed in temporary care with a maternal relative.. From The New York Daily News.</figcaption>
 
 The man driving the vehicle, 35-year-old Leonard Glenn, told police that he did in fact shoot his wife. And he also confessed to cutting his 6-month-old son, Alexander, who was in the back of the stranded car, in a critical condition. Also in the vehicle were Glenn’s other children, Martha, five-year-old Daniel, four-year-old Christopher, and two-year-old Edward. Their mother, 33-year-old Betty, was deceased at the family’s apartment, on North Mozart Street in west Chicago. 
 
@@ -47,6 +40,6 @@ Jacques spoke with Candace about the situation and she was immediately enthused 
 
 Within three short weeks, the Mosslers and their new children were headed via airplane to Houston, the Mosslers’ having received temporary custody of the kids with plans calling for permanent custody. In June 1957, Family Court officials from Cook County visited the children in the Mossler’s home and were impressed enough to give full blessing for the permanent adoption. The adoption was legally signed off on soonafter and was complete in September 1957. Jack and Candace were now the legal parents of Martha, Daniel, Edward and Christopher.
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F818c14c6-3054-4175-9824-88682d12a10a_582x1573.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F818c14c6-3054-4175-9824-88682d12a10a_582x1573.jpeg)From The Chicago Tribune
-
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d939a5f-acc3-48f0-a7a3-ccd5b5619369_638x1681.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d939a5f-acc3-48f0-a7a3-ccd5b5619369_638x1681.jpeg)
+![Jacques and Candace Mossler with Glenn children](@assets/images/jacques-candace-kids.jpg)
+![Jacques and Candace Mossler with Glenn children article](@assets/images/glenn-tots-mosslers.jpg)
+<figcaption>From The Chicago Tribune</figcaption>

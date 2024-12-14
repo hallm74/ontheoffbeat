@@ -1,21 +1,14 @@
 ---
 author: shannon
-pubDatetime: 2024-12-14T12:00:00
-title: Shannonclements Friends In High Places High Places For Friends
+pubDatetime: 2024-04-17T12:00:00
+title: Friends In High Places High Places For Friends
 ogImage: ../../assets/images/shannonclements-friends-in-high-places-high-places-for-friends.jpg
 featured: true
 draft: false
-tags: []
-description: Shannonclements Friends In High Places High Places For Friends
----
-
----
-title: Friends in high places; high places for friends
-subtitle: Mosslers work politcal finesse to their favor; Candace disappears and later
+tags:
+  - Candace Mossler
+description: Chapter 8 - Mosslers work politcal finesse to their favor; Candace disappears and later
   reappears dazed and confused
-author: ShannonClements
-publication: On The Offbeat
-date: April 17, 2024
 ---
 
 # Friends in high places; high places for friends
@@ -35,13 +28,12 @@ Not to be deterred, however, Candace continued her pursuit of getting her brothe
 
 The Mosslers contracted a legal dream team, including Georgia Sen. Carl Sanders and two state representatives. The problem at hand, however, was the ironclad case against DeWitt, and efforts at Appeals were denied. In 1962, four years after the State Appeals Court ruled against DeWitt Weatherby, Candace decided upon the other avenue she would take to try to save her brother. The attorney she had hired to lead DeWitt’s legal team, State Sen. Carl Sanders, was exploring running for the Office of Lieutenant Governor of Georgia. She was among those who helped convince him to go bigger… and run for Governor, even offering her and Jacques’ financial help in his election.
 
-![](https://substackcdn.com/image/fetch/w_720,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bfa2cc2-9659-40dd-bb81-1efd28c9759f_1563x1811.jpeg)![](https://substackcdn.com/image/fetch/w_720,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff34cccdd-0613-42eb-9278-253aa465a6ab_538x713.webp)
-
-Sanders, left. Gov. Griffin, right
+![State Senator Carl Sanders](@assets/images/Carl-Sanders.jpg)<figcaption>State Senator Carl Sanders</figcaption>
+![Governor Marvin Griffin](@assets/images/Marvin-Griffin.jpg)<figcaption>Governor Marvin Griffin</figcaption>
 
 Sanders, a Democrat, was the underdog in the primary election against Griffin. However, thanks to deep pockets from supporters, name recognition, and a recent U.S. Supreme Court ruling mandating that the Governor of Georgia shall be elected by popular vote rather than the previous way of elections which gave victory to the candidate who carried the most counties, Sanders defeated Griffin handily in the primaries and advanced to the general election. His sole opponent in the general election was killed in a car wreck, and lo and behold, the Mossler’s hand-picked candidate was now the new Governor of Georgia. 
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd256647-0209-420b-a675-2928196ecd35_1609x997.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd256647-0209-420b-a675-2928196ecd35_1609x997.jpeg)
+![Sanders runs over Griffin to win race for governor](@assets/images/Sanders-beats-Griffin.jpg)
 
 The Mossler’s “investment” paid off and just days after Gov. Sanders took office, the State Board of Parole freed DeWitt Weatherby, determining the shooting was an act of self defense. DeWitt served just four years of a life sentence for murder!
 
@@ -53,13 +45,14 @@ In a bizarre side story to the aforementioned not-so-short story after all, duri
 
 News accounts described Candace as “an attractive blonde matron,” wife of a wealthy Texas businessman and a former model. The search was rather intensive and on the third day of the search, Mossler strangely showed up dazed and confused at a farm home in Cordele, Georgia, some 200 miles south of her destination. News accounts reported that she “staggered” out of a heavily wooded area before finding the farm home, where she sought help. Her rental car (which she had rented from Atlanta) was found wrecked into a tree a short distance away. She had bruising on her face and complained of chest pains, and she hospitalized briefly. She told authorities she had no recollection whatsoever of how she ended up where she ended up.
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7969204e-2a6f-4fc9-9521-c36d78d2f57b_1284x858.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7969204e-2a6f-4fc9-9521-c36d78d2f57b_1284x858.jpeg)Map showing the strange and likely unintentional (maybe, who knows, right?) destination of Candace Mossler from where she was supposed to be, in Buchanan, Georgia.
+![Map showing the strange and likely unintentional (maybe, who knows, right?) destination of Candace Mossler from where she was supposed to be, in Buchanan, Georgia.](@assets/images/Candace-Mossler-Map.jpg)
+<figcaption>Map showing the strange and likely unintentional (maybe, who knows, right?) destination of Candace Mossler from where she was supposed to be, in Buchanan, Georgia.</figcaption>
 
 Jacques, who traveled to Georgia to retrieve his wife, told inquiring reporters that she had been very stressed by her brother’s situation. “She has been under a severe strain,” he said. “She hasn’t been able to sleep, so she’s been taking sleeping pills,” he continued, perhaps insinuating that the pills were responsible for her lapse in memory and moreever for her disappearance itself. 
 
 Whether this blip in time was the beginning of Candace’s “courtship” with sleeping pills (and later, more) or this had been going on for a while is unknown to this day. Regardless of the when that it started, Candace would struggle with addiction to prescribed pills and drugs for the remainder of her life.
 
-* * *
+---
 
 Not very long after the Mossler’s used political influence and strategy to help Candace’s brother get out of jail, they had another close associate who needed their “help”. This particular associate wasn’t a relative but rather a long-time trusted employee who the Mosslers relied upon and who they readily geared up to keep out of jail.
 
@@ -69,7 +62,7 @@ When Ford was eventually imprisoned on the firearms charges, the Mosslers steppe
 
 The Harris County Sheriff, C. V. “Buster” Kern, had plenty of hard feelings towards Candace Mossler and furthermore didn’t like to be left out of the loop on individuals paroled in his county. Kern had served as a “strong armed” Sheriff for almost a quarter of a century and was all about having some say-so and control over all things relating to law and order in Harris County. 
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90f84415-3669-48c6-a43e-59a4dd33b780_1648x1304.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90f84415-3669-48c6-a43e-59a4dd33b780_1648x1304.jpeg)
+![In early 1961, one of the Mossler’s best all-around staffers, Johnny Will Ford, was arrested as a habitual felon in possession of a firearm.](@assets/images/houseboy-manhunt.jpg)
 
 Candace Mossler took some serious swipes at Sheriff Kern a couple of years before, when she served on a Harris County Grand Jury and made things difficult for the Sheriff and the District Attorney. Candace was big into rooting for the underdog, and so it might not have come as a surprise that she was not eager to play a role in sending someone to jail, particularly during the same time frame her brother was incarcerated himself on a homicide charge. 
 
@@ -77,7 +70,7 @@ In 1960, Candace resigned from the Harris County grand jury before completing he
 
 Candace was on the jury which heard the case of Howard Stickney, who had been arrested on murder charges stemming from the beating death of a woman near Galveston. The majority of the grand jury voted to indict Stickney, with only Candace voting against the indicment. She resigned once and for all from the grand jury. Stickney was ultimately convicted, incarcerated and then executed in 1962. 
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab7fe697-0095-4c95-b883-1ec5b6445dcb_1441x775.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab7fe697-0095-4c95-b883-1ec5b6445dcb_1441x775.jpeg)From The Houston Chronicle, 1960.
+![Candace Mossler resigns from grand jury in a huff](@assets/images/Candace-Mossler-resigns-grand-jury.jpg)<figcaption>From The Houston Chronicle, 1960.</figcaption>
 
 During his trial process, Candace publicly criticized Sheriff Kern and the Sheriff’s Department itself, alleging that they did not properly investigate the case and ignored many tips because they were set on the idea that they found their man in Stickney. Candace stated publicly that Stickney was framed for the crime of murder, with evidence fabricated by law enforcement, and furthermore that Kern’s officers had beaten a confession out of the defendant. 
 

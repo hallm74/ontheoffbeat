@@ -1,35 +1,30 @@
 ---
 author: shannon
-pubDatetime: 2024-12-14T12:00:00
-title: Shannonclements Stepping Up And Stepping Out
-ogImage: ../../assets/images/shannonclements-stepping-up-and-stepping-out.jpg
+pubDatetime: 2024-01-12T12:00:00
+title: Stepping Up And Stepping Out
+ogImage: ../../assets/images/jacques-candace-mossler-out.jpg
 featured: true
 draft: false
-tags: []
-description: Shannonclements Stepping Up And Stepping Out
----
-
----
-title: Stepping Up and Stepping Out
-subtitle: Jacques continues growing his portfolio, while Candace keeps her eye on
+tags:
+  - Candace Mossler
+description: Chapter 6 - Jacques continues growing his portfolio, while Candace keeps her eye on
   the social ladder
-author: ShannonClements
-publication: On The Offbeat
-date: January 12, 2024
 ---
 
 # Stepping Up and Stepping Out
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1101081e-6b0b-4da4-8bdd-52614bb2200d_600x480.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1101081e-6b0b-4da4-8bdd-52614bb2200d_600x480.jpeg)AI rendering of Jacques and Candace out and about in Houston
+![AI rendering of Jacques and Candace out and about in Houston](@assets/images/jacques-candace-mossler-out.jpg)
+<figcaption>AI rendering of Jacques and Candace out and about in Houston</figcaption>
 
 The 1950s was a period of fantastic financial growth for the Mosslers. Jacques’ acquisition of the Alan Parker Loan company out of Miami made him a leader in the auto installment loans market in the Southern United States. He developed a love for South Florida and trips to Miami and the Keys for business (and pleasure) became somewhat regular.
 
 By the mid-1950s, Jacques grew his business ventures into the manufacture and selling of mobile homes, a well-timed expansion as families looked towards alternatives in affordable housing. Also, Mossler became the main stockholder in both the Standard Casualty Insurance and Ranchers Life Insurance companies, which grew his business portfolio into offering insurance on the vehicles and on the mobile homes he financed and on the lives of those financing the assets! 
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15dacbaf-fe69-4a40-b604-c41645dc41c3_845x1734.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15dacbaf-fe69-4a40-b604-c41645dc41c3_845x1734.jpeg)In late 1952, Jacques Mossler gained control of the Central Bank & Trust Company of Miami. Cliip from The Miami Herald.
+![In late 1952, Jacques Mossler gained control of the Central Bank & Trust Company of Miami. Cliip from The Miami Herald.](@assets/images/jacques-mossler-central-bank-control.jpg)
+<figcaption>In late 1952, Jacques Mossler gained control of the Central Bank & Trust Company of Miami. Cliip from The Miami Herald.</figcaption>
 
 Also early in the 1950s, he ventured into organized banking, acquiring a controlling interest in Miami’s Central Bank and Trust. Mossler’s promotional campaigns for the branches of the Central Bank & Trust Company featured one word: “Yes!” He promoted the bank, along with his other financial institutions he had interest in, by employing this one word. He wanted people of all walks of life to know, in the simplest of ways, that they, too could get help with their financing wishes. 
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd13afc56-ce98-4338-bb8b-21190416ea89_1225x701.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd13afc56-ce98-4338-bb8b-21190416ea89_1225x701.jpeg)1950s advertisement for Central Bank & Trust Company, published in The Miami Herald. 
+![1950s advertisement for Central Bank & Trust Company, published in The Miami Herald.](@assets/images/central-bank-miami-florida.jpg)<figcaption>1950s advertisement for Central Bank & Trust Company, published in The Miami Herald.</figcaption>
 
 In the mid-1950s, with Candace by his side, Jacques reached back to his Illinois roots and acquired controlling interest in Mutual National Bank, which had branches throughout Illinois, and the American Trust Bank in South Bend, Illinois. In the first year of the 1960s, he and Candace purchased control of the Coral Gables National Bank in Miami. He also ventured into a financial institution in Frankfurt, Germany.
 
