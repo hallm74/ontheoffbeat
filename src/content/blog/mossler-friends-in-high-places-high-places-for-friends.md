@@ -2,7 +2,7 @@
 author: shannon
 pubDatetime: 2024-04-17T12:00:00
 title: Friends In High Places High Places For Friends
-ogImage: ../../assets/images/shannonclements-friends-in-high-places-high-places-for-friends.jpg
+ogImage: ../../assets/images/Sanders-beats-Griffin.jpg
 featured: true
 draft: false
 tags:

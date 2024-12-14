@@ -1,20 +1,13 @@
 ---
 author: shannon
-pubDatetime: 2024-12-14T12:00:00
-title: Shannonclements Mel Swoops In
-ogImage: ../../assets/images/shannonclements-mel-swoops-in.jpg
+pubDatetime: 2024-11-24T12:00:00
+title: Mel Swoops In
+ogImage: ../../assets/images/candace-mossler-mel-powers.jpg
 featured: true
 draft: false
-tags: []
-description: Shannonclements Mel Swoops In
----
-
----
-title: Mel Swoops In
-subtitle: Candace’s world changes yet again when her naughty nephew comes knocking
-author: ShannonClements
-publication: On The Offbeat
-date: November 24, 2024
+tags:
+    - Candace Mossler
+description: Chapter 10 - Candace’s world changes yet again when her naughty nephew comes knocking
 ---
 
 # Mel Swoops In
@@ -44,7 +37,7 @@ By the time Candace was begging Jacques to help Mel, unfortunately for Jacques, 
 
 So when the title of this chapter announces, “Mel Swoops In,” well let’s just say this is pretty darned accurate. Picture it: this man… 20 years of age, tall, dark and handsome, arrogant and cocky as all get-out, uncultured, unkind, brash, entitled, lazy, hungry for money and thirsty for women… arrives in all of his self-glory at the upper crust mansion of his attractive older aunt. Candace, likewise, did not fail to notice that her nephew was not the school boy she remembered… he was now an adult (at least in the physical realm) and he had grown up into what she considered a macho man. 
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc59b4217-673f-4586-b05b-7adf967c219d_275x362.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc59b4217-673f-4586-b05b-7adf967c219d_275x362.jpeg)
+![Mel Powers](@assets/images/melpowers1.jpg)
 
 Mel quickly made it known that Jacques was of no use to him, and that Candace (his aunt, a detail not be lost in all of this) was top of his agenda. Well, actually and more realistically stated, Candace was the means to his own personal self-serving agenda. Mel stepped right in at the River Oaks mansion and perhaps as a tom cat would, began marking his territory so to speak. He began ordering servants around, taking control of things around the house, and taking whatever liberties he wanted to as he made himself quite at home. 
 
@@ -56,7 +49,7 @@ Candace, meanwhile, showed kindness, patience and caring towards Mel. She might 
 
 To Candace, Mel was an entertaining project. She worked her magic (through gosh knows how much money) to give him a full-blown makeover. She bought him a brand new wardrobe… including suits tailored just for him at expensive stores in Houston, and paid for aesthetic surgery to tuck his protruding ears back a little, and expensive facials to help rid of him of the pock-marks from teenage acne, and she funded a circumcision for him. Candace paid for most of this with her monthly allowance, no doubt an attempt to hide her efforts from Jacques.
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1fc6c79-4d82-4eed-9ffb-4243ea250e1e_1942x2210.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1fc6c79-4d82-4eed-9ffb-4243ea250e1e_1942x2210.jpeg)
+![Mel Powers](@assets/images/melpowers2.jpg)
 
 Jacques grew more and more frustrated with the “lazy bum” who had taken up residence in his home. He was rude, uncultured, messy, ate everything in the house, and contributed absolutely nothing. At some point (in the year 1961), Jacques told Candace he had enough of Mel, but Candace pleaded with him to be patient and give him time to get himself set up and find a job… she explained he would like to work in some capacity at one of Jacques’ businesses but wanted to wait until after the first of the year. 
 
@@ -68,7 +61,7 @@ Jacques told Mel and Candace it was time for Mel to leave the mansion. Mel wasn�
 
 Sadly, a defeated Jacques opted to begin spending more time away from home to avoid being around Mel and his obnoxious ways. Meanwhile, Candace and Mel grew closer, spending days together dining at classy restaurants, shopping, hanging out here and there, and chilling together cozily at the mansion. Others attested that they appeared comfortable with each other, were strangely playful with one another, and oddly appeared like a young couple in love (or in lust, whatever the case might have been). Mel teased Candace and eventually felt comfortable enough to announce to her all the ways he could pleasure a woman, offering that he could pleasure _her_ if she would like. She made it known she would like that and well… you can unfortunately guess where this went. 
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccc4e52d-6690-4802-8e4d-62c1dd0daab8_1979x2439.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccc4e52d-6690-4802-8e4d-62c1dd0daab8_1979x2439.jpeg)
+![Candace Mossler and Mel Powers](@assets/images/candace-mossler-mel-powers.jpg)
 
 Jacques probably (possibly?) didn’t know the extent of the relationship that had developed between Mel and Candace, but at some point in 1962, after Mel had been at the mansion almost a year, Jacques was done with at all. He tried to make things very uncomfortable for Mel, even calling him “Melvin” (which he knew he hated) and holding back no comments of judgment of Mel… from Mel or the children or servants in the home. Fact of the matter, every one in the house except Candace was sick and tired of Mel. The servants didn’t like the way he treated them (and Jacques himself scolded Mel on multiple occasions for his awful treatment of the house staff, reminding him they don’t work for him), the children were sure to have picked up on some of the weird vibes that were going on in their home between their mother and father and their houseguest/step-uncle, and the servants later acknowledged to seeing things going on between Candace and Mel. It was an entire mess, but neither of the culprits involved wanted to change things. Instead, Candace and Mel doubled down on all things inappropriate and the two accelerated and intensified their goings ons, leaving the level of discomfort in the Willowick mansion to grow more and more until it was through the roof.
 

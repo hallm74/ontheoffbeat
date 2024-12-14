@@ -1,24 +1,16 @@
 ---
 author: shannon
-pubDatetime: 2024-12-14T12:00:00
-title: Shannonclements Enter The 1960S And The New And Improved Candace Mossler
-ogImage: ../../assets/images/shannonclements-enter-the-1960s-and-the-new-and-improved-candace-mossler.jpg
+pubDatetime: 2024-04-18T12:00:00
+title: Enter The 1960S And The New And Improved Candace Mossler
+ogImage: ../../assets/images/houston-review-el-dorado-ballroom.jpg
 featured: true
 draft: false
-tags: []
-description: Shannonclements Enter The 1960S And The New And Improved Candace Mossler
+tags:
+  - Candace Mossler
+description: Chapter 9 - Candace ages in reverse, seeks mega-fun and excitement as she again reinvents herself
 ---
 
----
-title: Enter the 1960s… and the “new and improved”Candace Mossler
-subtitle: Candace ages in reverse, seeks mega-fun and excitement as she again reinvents
-  herself
-author: ShannonClements
-publication: On The Offbeat
-date: April 17, 2024
----
-
-# Enter the 1960s… and the “new and improved”Candace Mossler
+# Enter the 1960s… and the “new and improved” Candace Mossler
 As the 1950s closed and the 1960s were ushered in, a new age was dawning in America. The new decade was expected to be a golden age for most Americans, as women were on the cusps of all sorts of new freedoms and opportunities, “free love” would soon reign, and individuality rang out seemingly like never before.
 
 For Candace Mossler, the second month of the year 1960 would mark her 40th year on Earth. She was ready and willing to embrace the changes the new decade would bring, though not nearly ready for turning the page from age 39 to the big 4-0; So she launched somewhat of a reinvention of herself. Her manner of dress became “more risque”, her hairstyle “hipper”, and weight thinner, her demeanor more “sensuous” and to push the envelope a little more, her figure may have gotten a surgical revamp as well, with breast implants.
@@ -33,23 +25,23 @@ Jacques was introverted, as mentioned once or twice here; he was a quiet and pla
 
 As she saw things, if Jacques was uninterested in serious partying, then all the merrier. For solo and sans her aging and stuffy husband, she had no boundaries. The fun was without limits!
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa375f862-5111-4243-9b9b-e365b6a48891_2146x1479.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa375f862-5111-4243-9b9b-e365b6a48891_2146x1479.jpeg)From The Houston Review, a big band entertains at the El Dorado Ballroom.
+![From The Houston Review, a big band entertains at the El Dorado Ballroom.](@assets/images/houston-review-el-dorado-ballroom.jpg)<figcaption>From The Houston Review, a big band entertains at the El Dorado Ballroom.</figcaption>
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f3be58a-459d-4dda-9f26-41bf22e080c7_1820x1136.webp)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f3be58a-459d-4dda-9f26-41bf22e080c7_1820x1136.webp)Teenagers dancing at the El Dorado Ballroom, 1964. Photo from Project Row Houses, a group seeking to bring the dance club back to life. 
+![Teenagers dancing at the El Dorado Ballroom, 1964. Photo from Project Row Houses, a group seeking to bring the dance club back to life. ](@assets/images/eldorado-ballroom-teenagers-dancing.jpg)<figcaption>Teenagers dancing at the El Dorado Ballroom, 1964. Photo from Project Row Houses, a group seeking to bring the dance club back to life.</figcaption>
 
 Candace especially had an affinity for “urban” parties and clubs and she particularly enjoyed Rythm and Blues music and the R & B scenes of the greater Houston area. She loved the likes of Chuck Berry (her favorite, and eventually, a close friend of hers), Fats Domino, B.B. King, Bo Diddly, Jerry Lee Lewis, Louie Armstrong, and Little Richard. Her nightclubs of choice were the Eldorado Ballroom, a classy African American dance club (dubbed “The Home of Happy Feet”) in Houston’s Third Ward across the street from the historic Emancipation Park; the Cinder Club; and her favorite, the Jimmy Menutis Lounge and Club on Houston’s East End. The Jimmy Menutis, an old theater converted to a dance club, was one of Houston’s premier rock and roll venues, and Candace spent untold evening hours there dancing and partying the nights away. The Menutis Club had a neat place in history in that it was one of the earliest integrated dance clubs where both Black and White patrons were equally welcome.
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fc49c44-c2d5-4119-af63-50f3b6069dee_396x640.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fc49c44-c2d5-4119-af63-50f3b6069dee_396x640.jpeg)Jimmy Menutis Lounge and Club, Houston. Circa 1960.
+![Jimmy Menutis Lounge and Club, Houston. Circa 1960.](@assets/images/jimmy-menutis-lounge.jpg)<figcaption>Jimmy Menutis Lounge and Club, Houston. Circa 1960.</figcaption>
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F735948b6-007d-40e8-b759-3f86527186f0_2168x1611.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F735948b6-007d-40e8-b759-3f86527186f0_2168x1611.jpeg)Chuck Berry, at the Jimmy Menutis Club.
+![Chuck Berry, at the Jimmy Menutis Club.](@assets/images/chuck-berry-jimmy-menutis.jpg)<figcaption>Chuck Berry, at the Jimmy Menutis Club.</figcaption>
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a6819ca-6938-4711-8428-e0240b2a90de_896x573.webp)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a6819ca-6938-4711-8428-e0240b2a90de_896x573.webp)Dance party at the Jimmy Menutis Club, circa 1960
+![Dance party at the Jimmy Menutis Club, circa 1960](@assets/images/jimmy-menutis-dance-party.jpg)<figcaption>Dance party at the Jimmy Menutis Club, circa 1960</figcaption>
 
 Candace and Chuck Berry met in the Menutis Club in 1961 and became quite close quite quickly. In fact, the evening that Candace met Chuck Berry, she invited him to come to her River Oaks mansion. He did and he ended up staying the night (in a guest bedroom it is said). 
 
 Many people suspected Candace and Chuck were more than friends and indeed, Berry himself later confirmed in his 1987 autobiography that they had not only been close friends, they had also been lovers. Candace watched Chuck perform not only in Houston, but also caught his performances in Dallas and in Galveston and even hired him to perform at a backyard party at her Houston home on Aug. 20, 1961 and later on at least two more lawn party occasions there. Berry later said their relationship was consumated after the first lawn party and continued into the 1970s.
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a30845a-cf5d-4931-803a-4990ae6b0b0b_640x507.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a30845a-cf5d-4931-803a-4990ae6b0b0b_640x507.jpeg)Chuck Berry, 1965
+![Chuck Berry, 1965](@assets/images/chuck-berry-1965.jpg)<figcaption>Chuck Berry, 1965</figcaption>
 
 Neighbors of the ritzy River Oaks Subdivision took notice and Candace was the subject of all sorts of gossip (and criticism) for her wild behavior and for her relations with Black men (which was rather taboo back in the ‘60s). None of the chat, gossip, discussions, looks, or judgments phased Candace at all… if anything, she seemed to have been proud of her antics and the chit chat that came from her lifestyle and risque behavior actually emboldened her. She came to the conclusion that those who were talking were just jealous that they weren’t having as much fun as her. 
 
