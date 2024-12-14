@@ -6,7 +6,7 @@ export const SITE: Site = {
   profile: "https://ontheoffbeat.com/about/",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "On The Offbeat",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "OpenGraphImage.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 3,
