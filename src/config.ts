@@ -8,8 +8,8 @@ export const SITE: Site = {
   title: "On The Offbeat",
   ogImage: "OpenGraphImage.png",
   lightAndDarkMode: true,
-  postPerIndex: 4,
-  postPerPage: 3,
+  postPerIndex: 5,
+  postPerPage: 7,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
 };

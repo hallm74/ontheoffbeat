@@ -7,7 +7,7 @@ featured: true
 draft: false
 tags:
     - Candace Mossler
-description: Chapter One - A Fairy Tale Readies its Magnificent Journey
+description: Chapter 1 - A Fairy Tale Readies its Magnificent Journey
 ---
 
 # Enter Stage Middle
