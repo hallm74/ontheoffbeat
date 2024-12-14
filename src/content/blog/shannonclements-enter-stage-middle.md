@@ -1,20 +1,13 @@
 ---
 author: shannon
-pubDatetime: 2024-12-14T12:00:00
-title: Shannonclements Enter Stage Middle
-ogImage: ../../assets/images/shannonclements-enter-stage-middle.jpg
+pubDatetime: 2023-06-13T12:00:00
+title: Enter Stage Middle
+ogImage: ../../assets/images/candace-grace-weatherby-mossler.jpg
 featured: true
 draft: false
-tags: []
-description: Shannonclements Enter Stage Middle
----
-
----
-title: Enter Stage Middle
-subtitle: 'Chapter One: A Fairy Tale Readies its Magnificent Journey'
-author: ShannonClements
-publication: On The Offbeat
-date: June 13, 2023
+tags:
+    - Candace Mossler
+description: Chapter One - A Fairy Tale Readies its Magnificent Journey
 ---
 
 # Enter Stage Middle
@@ -36,9 +29,9 @@ The subject of our story is a woman who could be loved or hated, or both at the 
 
 To tell her story, I won’t start at the beginning. Or at the end. Instead, let’s start smack dab in the middle… and then hop all around. Well, why not? This story needn’t have any rules… for our subject certainly lived by absolutely zero rules. She was carefree and chaotic, sometimes guided, usually not… but alway, yes always, she was fun… and so, too, will this story be.
 
-—————
-
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79beda7e-f004-4cc7-9a19-56d5196408e2_1282x1594.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79beda7e-f004-4cc7-9a19-56d5196408e2_1282x1594.jpeg)Date unknown… Candace Grace Weatherby
+---
+![Date unknown… Candace Grace Weatherby](@assets/images/candace-grace-weatherby-mossler.jpg)
+<figcaption>Date unknown… Candace Grace Weatherby</figcaption>
 
 The middle happens to be in the early 1940s, just before the United States entered into the second World War— you know, the war after the war that was supposed to have ended all wars.
 
@@ -54,7 +47,8 @@ As was her current situation, Candace was lonely, she was broke, she was dreadfu
 
 See, the story goes, in rapid summary, that Candace was one of nine children born to Lonnie and Lizzie Weatherby. Lizzie died in 1932 two days after delivering a stillborn baby girl. She was just 38, and her death left her husband to take care of their six minor children, a task he was wholly unprepared for, and he soonafter suffered a nervous breakdown and moved away on his own, leaving his children with their maternal grandparents, William Cary and Presila Brannon. 
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcce14d76-a3e6-4895-a5a2-55539de307d7_1282x1853.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcce14d76-a3e6-4895-a5a2-55539de307d7_1282x1853.jpeg)William Cary and Presila Brannon
+![William Cary and Presila Brannon](@assets/images/william-cary-and-presila-brannon.jpg)
+<figcaption>William Cary and Presila Brannon</figcaption>
 
 The Brannons had already raised their own six children and were in their sixties by the time their son-in-law left town minus his six youngest children, so you can imagine their predicament with the latest turn of events. And so, in their best way of “handling” things, they sought and found a mature man to become a husband to 17-year-old Candace. She obliged and dropped out of high school (11th grade) in 1937 to appease the grandfather she adored by marrying this man, Norman Johnson.
 
@@ -68,9 +62,9 @@ This perceived destiny led Candace to tempt meeting other men and other opportun
 
 One night in March 1942, she met and was befriended by Sgt. Winthrop (Win) Rockefeller. Easily considered America’s most eligible bachelor, Win was the grandson of one of the greatest titans in American history, Standard Oil founder John D. Rockefeller.
 
-![](https://substackcdn.com/image/fetch/w_720,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9caddc78-6256-427a-b640-268bcf258475_1000x1462.jpeg)![](https://substackcdn.com/image/fetch/w_720,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdea82379-dff4-4b26-a868-87a07e2c4442_600x600.jpeg)
-
-Winthrop “Win” Rockefeller
+![Winthrop “Win” Rockefeller](@assets/images/wintrop-rockefeller1.jpg)
+![Winthrop “Win” Rockefeller](@assets/images/winthrop-rockefeller2.jpg)
+<figcaption>Winthrop “Win” Rockefeller</figcaption>
 
 This meeting somewhat kind of sort of … maybe a lot more than just kind of… indirectly led to a new life for Candace. She and Win became friendly… one could (would) say _very_ friendly. Later reports declared Candace and Win enjoyed an affair and during the time they were “seeing” each other, she became pregnant with her second child. In December 1943, Candace Rita Johnson was born, just weeks before Rockefeller was sent to into the war, in the Pacific Theater. “News” accounts later declared Win might be the father or Rita, but this was never formally confirmed… however, the “rumors” were also never disputed by Candace or by Win. And therefore… the “rumors” never subsided.
 
@@ -78,6 +72,6 @@ After Rockefeller left his homeland to fight overseas, the “hot and heavy” p
 
 Whatever the result of the affair with Win Rockefeller might have or might not have been, one thing is for certain… The seeds were planted for Candace and she now knew what she could have in this world… and she definitely liked it. There was no turning back. 
 
-* * *
+---
 
 Next: The Road to Glitter and Gold

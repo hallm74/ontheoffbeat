@@ -1,26 +1,20 @@
 ---
 author: shannon
-pubDatetime: 2024-12-14T12:00:00
-title: Shannonclements The Road To Glitter And Gold
+pubDatetime: 2023-07-21T12:00:00
+title: The Road To Glitter And Gold
 ogImage: ../../assets/images/shannonclements-the-road-to-glitter-and-gold.jpg
 featured: true
 draft: false
-tags: []
-description: Shannonclements The Road To Glitter And Gold
----
-
----
-title: The Road to Glitter and Gold
-subtitle: 'Chapter 2: Candace Mossler Wheels and Deals Along Her Path to Secure Fortune'
-author: ShannonClements
-publication: On The Offbeat
-date: July 21, 2023
+tags:
+    - Candace Mossler
+description: Chapter 2 - Candace Mossler Wheels and Deals Along Her Path to Secure Fortune
 ---
 
 # The Road to Glitter and Gold
 During the next three years, Candace totally cut loose and became _famous_ in many ways and in many circles, to hear her tell it. Soooo…. Let’s tell it! Because tell it, _she_ did, so we have plenty to go on.
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3853721-a83e-4099-8a8f-7670804d5d68_1000x637.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3853721-a83e-4099-8a8f-7670804d5d68_1000x637.jpeg)The Southerner passenger train
+![The Southerner passenger train](@assets/images/southerner-train.jpg)
+<figcaption>The Southerner passenger train</figcaption>
 
 The Alabama summer heat was sweltering in August 1947 as Candace hopped off The Southerner train in Anniston. She had alerted the local press that she, Candace Johnson, a hometown girl turned national success story, would be making a quickie visit to her former tiny town. So as it happened, a reporter was there, maybe even enthused and totally ready to greet her. A fun success story for the Society pages was always a welcome addition to _ **The Anniston Star**_. 
 
@@ -40,7 +34,8 @@ Candace was living in New Orleans during the late 1940s, and she did in fact ope
 
 From the summer of 1946 until spring of 1948, Candace ran a series of advertisements in _The (New Orleans) Times Picayune_ for her modeling school. “Candace Makes You Glamorous,” the advertisements announced. “Under the personal supervision of Candace Johnson, graduate of the Barbizon School and prominent authority on feminine beauty … you will receive instruction in style, sense, color harmony, poise, grace, etiquette, diction, makeup, individual hair styling, figure streamlining, and smoothing of the ‘unattractive” spots.” She promised to teach young ladies training in high fashion, “figure correction,” weight control, fashion and photo modeling, and interviewing skills.
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc715d23-59b8-4d33-829a-4aa81fe08111_1283x1404.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc715d23-59b8-4d33-829a-4aa81fe08111_1283x1404.jpeg)1947 Advertisement in The Times Picayune, advertising Candcace Studios of Modeling and Self Improvement
+![1947 Advertisement in The Times Picayune, advertising Candcace Studios of Modeling and Self Improvement](@assets/images/candace-studios.jpg)
+<figcaption>1947 Advertisement in The Times Picayune, advertising Candcace Studios of Modeling and Self Improvement</figcaption>
 
 “Make the most of what you possess,” Candace advised in the print advertisements. “Your power is unlimited. The elegance of your manner, speech, grace, poise and charm.”
 
@@ -52,7 +47,8 @@ Whatever she had or had not done while in Hollywood or in the Big Apple, a move 
 
 Her life forever changed following a “chance” encounter in 1947, while she was volunteering as a fundraiser for the New Orleans Opera. She had offered to visit a wealthy but reputably “stingy” businessman, Jacques (Jack) Mossler. She was determined to get a donation from Mossler, in part because it was a challenge (she had been told he could, of course, donate, but probably would not). She was hoping to get a few hundred dollars from him. After their brief meeting, during which she truly tried to get a nice donation, Mossler reluctantly wrote a check to the Opera Foundation for twenty five dollars. She left, concluding he was as described, “a cheapskate.” 
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13bccd4b-5080-4f3d-b780-f777967f8a86_526x526.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13bccd4b-5080-4f3d-b780-f777967f8a86_526x526.jpeg)Jacques Mossler
+![Jacques Mossler](@assets/images/jacques-mossler.jpg)
+<figcaption>Jacques Mossler</figcaption>
 
 But shortly after this meeting, Candace later explained in varied interviews, Mossler scoped her out, possibly pretending to be taking photos at the Audubon Zoo when she was on a Saturday outing with her children. He made contact with her and said he recalled her visit to his office. There is no disputing that Candace Johnson would be difficult to forget. The two started dating soonafter. 
 

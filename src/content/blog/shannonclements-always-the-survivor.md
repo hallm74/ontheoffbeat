@@ -1,12 +1,13 @@
 ---
 author: shannon
-pubDatetime: 2024-12-14T12:00:00
-title: Shannonclements Always The Survivor
-ogImage: ../../assets/images/shannonclements-always-the-survivor.jpg
+pubDatetime: 2023-07-27T12:00:00
+title: Always The Survivor
+ogImage: ../../images/candace-mossler-room-shoes.jpg
 featured: true
 draft: false
-tags: []
-description: Shannonclements Always The Survivor
+tags:
+    - Candace Mossler
+description: Chapter 3 - Candace Sets Sail for a New Journey
 ---
 
 ---
@@ -18,7 +19,8 @@ date: July 27, 2023
 ---
 
 # Always the Survivor
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6f9dfda-f88f-4a7a-a529-fcb03d4ac22c_1024x1024.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6f9dfda-f88f-4a7a-a529-fcb03d4ac22c_1024x1024.jpeg)
+
+![Candace Mossler](@assets/images/candace-mossler-room-shoes.jpg)
 
 Young Candace Grace Weatherby laid in her bed with grand visions in her head. She stared out the small window on the other side of her bed, catching glimpses of routine activity on the farm where she lived. Her eyes often wondered fondly back towards her vanity, where hanging atop the vanity mirror was a pristine pair of pink ballet slippers, in all of their glory. These slippers were for her, and she knew it. She relished the dreams of the day she would be dancing in them.
 
@@ -40,7 +42,8 @@ She dreamed of future greatness for herself. She imagined her name in print… i
 
 By the time she was 15, she was largely healed from the poliovirus and once again she was walking and yes, she danced.
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85e753be-0bae-4331-8297-4d27d0305cf4_599x576.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85e753be-0bae-4331-8297-4d27d0305cf4_599x576.jpeg)Photo AI generated
+![Jacques and Candace Mossler](@assets/images/jacques-candace-mossler-ship.jpg)
+<figcaption>Photo AI generated</figcaption>
 
 Fast forward to Summer of 1949. As Candace prepared for a honeymoon fit for a princess, in London and in Paris and along the French and English countrysides, she boarded the luxury ocean liner RMS Queen Elizabeth with her new husband. On the arm of her wealthy, ambitious, powerful husband, her thoughts slipped back in time as she briefly remembered the tough times of her childhood. She recalled her horribly boring marriage to Norman Johnson and the life of poverty that she had been delivered into because as much as she adored her grandfather, he nor anyone else who she loved quite knew what a strong survivor she was. Never anyone mind, she knew it… she kept the faith. And she fought her way out of every struggle she was presented with. Now, she was relieved. She was vindicated. And… she was energized. 
 
