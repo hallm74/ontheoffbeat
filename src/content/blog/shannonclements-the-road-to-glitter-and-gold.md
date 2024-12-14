@@ -2,7 +2,7 @@
 author: shannon
 pubDatetime: 2023-07-21T12:00:00
 title: The Road To Glitter And Gold
-ogImage: ../../assets/images/shannonclements-the-road-to-glitter-and-gold.jpg
+ogImage: ../../assets/images/candace-studios.jpg
 featured: true
 draft: false
 tags:
