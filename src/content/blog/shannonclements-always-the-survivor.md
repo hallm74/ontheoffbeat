@@ -10,14 +10,6 @@ tags:
 description: Chapter 3 - Candace Sets Sail for a New Journey
 ---
 
----
-title: Always the Survivor
-subtitle: 'Chapter 3: Candace Sets Sail for a New Journey'
-author: ShannonClements
-publication: On The Offbeat
-date: July 27, 2023
----
-
 # Always the Survivor
 
 ![Candace Mossler](@assets/images/candace-mossler-room-shoes.jpg)
