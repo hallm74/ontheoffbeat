@@ -2,7 +2,7 @@
 author: shannon
 pubDatetime: 2023-12-26T12:00:00
 title: The American Dream Signed Sealed And Delivered
-ogImage: ../../assets/images/shannonclements-the-american-dream-signed-sealed-and-delivered.jpg
+ogImage: ../../assets/images/Jacques-Mossler-newspaper.jpg
 featured: true
 draft: false
 tags:
