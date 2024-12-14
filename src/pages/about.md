@@ -3,34 +3,12 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Welcome to On The Offbeat, your go-to source for the curious, quirky, and unconventional stories that don’t make the front page but deserve a place in your day. Here, we celebrate the unexpected, the untold, and the downright fascinating tales from around the world.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+Our mission is simple: to bring you a fresh perspective on the news by uncovering the oddities and hidden gems that spark wonder and curiosity. From forgotten moments in history to bizarre headlines that make you look twice, we thrive on exploring the offbeat side of life.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+At On The Offbeat, we believe that every story has a twist worth sharing. So, whether you’re here for a quick laugh, a jaw-dropping discovery, or just something delightfully different, we’ve got you covered.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Stay curious. Stay Offbeat.
+ 
+Give any feedback via my [email](mailto:shannon@ontheoffbeat.com).
