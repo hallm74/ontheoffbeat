@@ -10,5 +10,10 @@ Our mission is simple: to bring you a fresh perspective on the news by uncoverin
 At On The Offbeat, we believe that every story has a twist worth sharing. So, whether you’re here for a quick laugh, a jaw-dropping discovery, or just something delightfully different, we’ve got you covered.
 
 Stay curious. Stay Offbeat.
+
+
+<div>
+  <img src="/assets/ontheoffbeatlogo03.svg" class="sm:w-1/2 mx-auto" alt="On the OffBeat">
+</div>
  
 Give any feedback via my [email](mailto:shannon@ontheoffbeat.com).
